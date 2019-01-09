@@ -1,0 +1,12 @@
+{
+  "beijing": {
+    "name": "北京",
+    "name-en": "Beijing",
+    "timezone": 8
+  },
+  "tokyo": {
+    "name": "东京",
+    "name-en": "Tokyo",
+    "timezone": 9
+  }
+}

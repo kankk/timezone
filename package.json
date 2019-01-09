@@ -1,0 +1,22 @@
+{
+  "name": "mango-timezone",
+  "version": "1.0.2",
+  "description": "A time display in commond line",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kankk/timezone.git"
+  },
+  "author": "Qihua Jian",
+  "license": "MIT",
+  "bin": {
+    "timezone": "./bin/timezone"
+  },
+  "bugs": {
+    "url": "https://github.com/kankk/timezone/issues"
+  },
+  "homepage": "https://github.com/kankk/timezone#readme"
+}
