@@ -1,6 +1,6 @@
 {
   "name": "mango-timezone",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A time display in commond line",
   "main": "index.js",
   "scripts": {},
