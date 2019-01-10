@@ -3,9 +3,7 @@
   "version": "1.0.2",
   "description": "A time display in commond line",
   "main": "index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kankk/timezone.git"
@@ -18,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/kankk/timezone/issues"
   },
-  "homepage": "https://github.com/kankk/timezone#readme"
+  "homepage": "https://github.com/kankk/timezone#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "string-width": "^3.0.0"
+  }
 }

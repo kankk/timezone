@@ -8,5 +8,25 @@
     "name": "东京",
     "name-en": "Tokyo",
     "timezone": 9
+  },
+  "Los Angeles": {
+    "name": "洛杉矶",
+    "name-en": "Los Angeles",
+    "timezone": -8
+  },
+  "New York": {
+    "name": "纽约",
+    "name-en": "New York",
+    "timezone": -5
+  },
+  "London": {
+    "name": "伦敦",
+    "name-en": "London",
+    "timezone": -5
+  },
+  "Boston": {
+    "name": "波士顿",
+    "name-en": "Boston",
+    "timezone": -5
   }
 }
